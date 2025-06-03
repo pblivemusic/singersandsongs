@@ -1,0 +1,28 @@
+li {
+  font-family: "Verdana";
+}
+a {
+  font-family: "Verdana";
+}
+p {
+  font-family: "verdana";
+}
+.card {
+  margin-top: 2em;
+  padding: 1.5em 0.5em 0.5em;
+  border-radius: 1em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.card-body p {
+  margin-bottom: 0;
+  text-align: left;
+}
+.card-body a {
+  margin-bottom: 0;
+  text-align: left;
+}
+.card-body li {
+  margin-bottom: 0;
+  text-align: left;
+}
